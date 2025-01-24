@@ -1,0 +1,5 @@
+com/example/file/processor/FileProcessorServiceApplicationTests.class
+com/example/file/processor/testSupport/ResourceUtil.class
+com/example/file/processor/service/PersonDataFileParserTest.class
+com/example/file/processor/controller/FileControllerTest.class
+com/example/file/processor/service/JsonFileConverterTest.class
